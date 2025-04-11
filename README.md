@@ -97,6 +97,7 @@ Para visualizar e executar o notebook diretamente no Databricks:
 8️⃣ Executar todos os códigos;
 
 9️⃣ Validar os Resultados.
+
 ---
 
 ## 2. Executar o Notebook em Python (Google Colab)
