@@ -59,9 +59,9 @@ Criar as tabelas fato e dimensões.
 🛠️ Tecnologias Utilizadas
 💾 Databricks para processamento e armazenamento.
 
-🐍 Pandas para manipulação de dados.
-
 🔥 PySpark para processamento distribuído.
+
+SQL para consultas
 
 🔮 Possíveis Melhorias Futuras
 ✨ Implementação de pipeline automatizado para atualização dos dados.
