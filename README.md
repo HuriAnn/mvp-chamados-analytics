@@ -92,15 +92,14 @@ Para visualizar e executar o notebook diretamente no Databricks:
 
 6️⃣ O notebook será exibido com *todos os outputs salvos* e estará pronto para *reexecução* se necessário.
 
+7️⃣ Importar os dados no Databricks;
+
+8️⃣ Executar todos os códigos;
+
+9️⃣ Validar os Resultados.
 ---
 
 ## 2. Executar o Notebook em Python (Google Colab)
-
-1️⃣ Importar os dados no Databricks;
-
-2️⃣ Executar todos os códigos;
-
-3️⃣ Validar os Resultados.
 
 4️⃣ Clique no botão abaixo para abrir diretamente no Google Colab:
 
