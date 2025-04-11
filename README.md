@@ -53,7 +53,7 @@ As tabelas estão estruturadas da seguinte forma:
 | Dia_da_Semana  | STRING  | -        | Nome do dia da semana                 |
 
 
-🛠️ Tecnologias Utilizadas:
+### 🛠️ Tecnologias Utilizadas:
 
 💾 Databricks para processamento e armazenamento.
 
@@ -61,8 +61,12 @@ As tabelas estão estruturadas da seguinte forma:
 
 🛢️ SQL para consultas
 
-🔮 Possíveis Melhorias Futuras
+
+
+### 🔮 Possíveis Melhorias Futuras:
+
 ✨ Implementação de pipeline automatizado para atualização dos dados.
+
 📊 Criação de dashboards para visualização dos KPIs de atendimento.
 
 ---
